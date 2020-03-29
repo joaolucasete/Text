@@ -4,7 +4,7 @@
 
 # Text
 [![license](https://img.shields.io/github/license/freazesss/Text.svg)](./LICENSE)
-> :memo: A simple file manager
+> :file_folder: A simple file manager
 
 [Ler em portugues](./README-ptbr.md)
 # What i need

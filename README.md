@@ -3,7 +3,10 @@
 </p>
 
 # Text
+[![license](https://img.shields.io/github/license/freazesss/Text.svg)](./LICENSE)
 > :memo: A simple file manager
+
+[Ler em portugues](./README-ptbr.md)
 # What i need
 ##### :snake: Python 3x
 ##### :octocat: Git

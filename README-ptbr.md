@@ -5,6 +5,8 @@
 # Text
 [![license](https://img.shields.io/github/license/freazesss/Text.svg)](./LICENSE)
 > :memo: Um simples gerenciador de arquivos
+
+[Read in English](./README.md)
 # O'que eu preciso?
 ##### :snake: Python 3x
 ##### :octocat: Git

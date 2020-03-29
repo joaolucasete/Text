@@ -2,7 +2,7 @@ __doc__ = """
 
 DOCUMENTATION
 
-Aplicação com foco em ler arquivos.
+Aplicação com foco em gerenciar arquivos.
 No momento a aplicação pode ler os seguintes tipos arquivos...
     .TXT
 
